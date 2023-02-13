@@ -1,0 +1,54 @@
+
+.bottom {
+    font-size: 10px;
+    color: grey;
+    border: 1px solid black;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 20px;
+}
+
+.beach-photo {
+    text-align: center;
+    height: 1px;
+}
+
+ol li {
+    padding: 10px;
+}
+
+.profile {
+    background-color: darkgray;
+    padding: 5px;
+}
+
+.profile p {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    background-color: lightgrey;
+    flex-direction: column;
+    width: max-content;
+    margin: 15px;
+}
+
+.row {
+    border: 1px solid black;
+}
+
+.left-border, .right-border {
+    border-left: 1px solid black;
+}
+
+.between-jpgs {
+    padding: 20px; 
+}
